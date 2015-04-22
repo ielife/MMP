@@ -46,3 +46,4 @@ Temporary Items
 *.dex
 *.apk
 /MMP/Development/Source/AppRTCDemo/bin
+*.~$lock
