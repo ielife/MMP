@@ -3,8 +3,8 @@ module.exports = function(app, streams) {
   // GET home 
   var index = function(req, res) {
     res.render('index', { 
-                          title: 'Project RTC', 
-                          header: 'MMS live streaming',
+                          title: '流媒体服务端', 
+                          header: '实时流媒体测试服务端',
                           footer: '498806069@qq.com',
                           id: req.params.id
                         });
